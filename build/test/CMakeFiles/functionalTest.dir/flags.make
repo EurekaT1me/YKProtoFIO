@@ -6,5 +6,5 @@ CXX_FLAGS =
 
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/home/zyk/Study/KVDB/protobuf-test/include 
+CXX_INCLUDES = -I/home/zyk/Study/KVDB/protoFIO/include 
 

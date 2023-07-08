@@ -1,2 +1,0 @@
-/usr/bin/ar qc ../../deploy/lib/libpFIO.a  CMakeFiles/pFIO.dir/person.pb.cc.o
-/usr/bin/ranlib ../../deploy/lib/libpFIO.a

@@ -2,4 +2,5 @@ syntax="proto3";
 message person {
      string name=1;
      int32 id=2;
+     bytes description=3;
 }

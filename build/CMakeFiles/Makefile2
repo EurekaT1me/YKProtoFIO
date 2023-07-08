@@ -44,10 +44,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/zyk/Study/KVDB/protobuf-test
+CMAKE_SOURCE_DIR = /home/zyk/Study/KVDB/protoFIO
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/zyk/Study/KVDB/protobuf-test/build
+CMAKE_BINARY_DIR = /home/zyk/Study/KVDB/protoFIO/build
 
 #=============================================================================
 # Directory level rules for the build root directory
@@ -113,14 +113,14 @@ test/clean: test/CMakeFiles/functionalTest.dir/clean
 src/CMakeFiles/protoFIO.dir/all:
 	$(MAKE) -f src/CMakeFiles/protoFIO.dir/build.make src/CMakeFiles/protoFIO.dir/depend
 	$(MAKE) -f src/CMakeFiles/protoFIO.dir/build.make src/CMakeFiles/protoFIO.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/zyk/Study/KVDB/protobuf-test/build/CMakeFiles --progress-num=3,4 "Built target protoFIO"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/zyk/Study/KVDB/protoFIO/build/CMakeFiles --progress-num=3,4 "Built target protoFIO"
 .PHONY : src/CMakeFiles/protoFIO.dir/all
 
 # Build rule for subdir invocation for target.
 src/CMakeFiles/protoFIO.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/zyk/Study/KVDB/protobuf-test/build/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/zyk/Study/KVDB/protoFIO/build/CMakeFiles 2
 	$(MAKE) -f CMakeFiles/Makefile2 src/CMakeFiles/protoFIO.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/zyk/Study/KVDB/protobuf-test/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/zyk/Study/KVDB/protoFIO/build/CMakeFiles 0
 .PHONY : src/CMakeFiles/protoFIO.dir/rule
 
 # Convenience name for target.
@@ -140,14 +140,14 @@ src/CMakeFiles/protoFIO.dir/clean:
 test/CMakeFiles/functionalTest.dir/all: src/CMakeFiles/protoFIO.dir/all
 	$(MAKE) -f test/CMakeFiles/functionalTest.dir/build.make test/CMakeFiles/functionalTest.dir/depend
 	$(MAKE) -f test/CMakeFiles/functionalTest.dir/build.make test/CMakeFiles/functionalTest.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/zyk/Study/KVDB/protobuf-test/build/CMakeFiles --progress-num=1,2 "Built target functionalTest"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/zyk/Study/KVDB/protoFIO/build/CMakeFiles --progress-num=1,2 "Built target functionalTest"
 .PHONY : test/CMakeFiles/functionalTest.dir/all
 
 # Build rule for subdir invocation for target.
 test/CMakeFiles/functionalTest.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/zyk/Study/KVDB/protobuf-test/build/CMakeFiles 4
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/zyk/Study/KVDB/protoFIO/build/CMakeFiles 4
 	$(MAKE) -f CMakeFiles/Makefile2 test/CMakeFiles/functionalTest.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/zyk/Study/KVDB/protobuf-test/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/zyk/Study/KVDB/protoFIO/build/CMakeFiles 0
 .PHONY : test/CMakeFiles/functionalTest.dir/rule
 
 # Convenience name for target.

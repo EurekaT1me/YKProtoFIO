@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/zyk/Study/KVDB/protobuf-test/test/functionalTest.cpp" "/home/zyk/Study/KVDB/protobuf-test/build/test/CMakeFiles/functionalTest.dir/functionalTest.cpp.o"
+  "/home/zyk/Study/KVDB/protoFIO/test/functionalTest.cpp" "/home/zyk/Study/KVDB/protoFIO/build/test/CMakeFiles/functionalTest.dir/functionalTest.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
@@ -15,7 +15,7 @@ set(CMAKE_CXX_TARGET_INCLUDE_PATH
 
 # Targets to which this target links.
 set(CMAKE_TARGET_LINKED_INFO_FILES
-  "/home/zyk/Study/KVDB/protobuf-test/build/src/CMakeFiles/protoFIO.dir/DependInfo.cmake"
+  "/home/zyk/Study/KVDB/protoFIO/build/src/CMakeFiles/protoFIO.dir/DependInfo.cmake"
   )
 
 # Fortran module output directory.

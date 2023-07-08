@@ -1,0 +1,8 @@
+/home/zyk/Study/KVDB/protoFIO/proto/CMakeFiles/rebuild_cache.dir
+/home/zyk/Study/KVDB/protoFIO/proto/CMakeFiles/edit_cache.dir
+/home/zyk/Study/KVDB/protoFIO/proto/src/CMakeFiles/rebuild_cache.dir
+/home/zyk/Study/KVDB/protoFIO/proto/src/CMakeFiles/edit_cache.dir
+/home/zyk/Study/KVDB/protoFIO/proto/src/CMakeFiles/protoFIO.dir
+/home/zyk/Study/KVDB/protoFIO/proto/test/CMakeFiles/rebuild_cache.dir
+/home/zyk/Study/KVDB/protoFIO/proto/test/CMakeFiles/edit_cache.dir
+/home/zyk/Study/KVDB/protoFIO/proto/test/CMakeFiles/functionalTest.dir

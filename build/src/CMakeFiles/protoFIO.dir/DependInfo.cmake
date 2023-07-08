@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/zyk/Study/KVDB/protobuf-test/src/person.pb.cc" "/home/zyk/Study/KVDB/protobuf-test/build/src/CMakeFiles/protoFIO.dir/person.pb.cc.o"
+  "/home/zyk/Study/KVDB/protoFIO/src/person.pb.cc" "/home/zyk/Study/KVDB/protoFIO/build/src/CMakeFiles/protoFIO.dir/person.pb.cc.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
