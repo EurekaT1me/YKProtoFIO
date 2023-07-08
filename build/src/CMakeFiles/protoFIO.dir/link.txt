@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../deploy/lib/libprotoFIO.a  CMakeFiles/protoFIO.dir/person.pb.cc.o
+/usr/bin/ranlib ../../deploy/lib/libprotoFIO.a

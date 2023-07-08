@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/functionalTest.dir/functionalTest.cpp.o  -o ../../test/bin/functionalTest   -L/home/zyk/Study/KVDB/protobuf-test/deploy/lib  -Wl,-rpath,/home/zyk/Study/KVDB/protobuf-test/deploy/lib -lprotobuf ../../deploy/lib/libprotoFIO.a -lprotobuf 
